@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PT Assessor</string>
+    <string name="cond_1">Eyes Open - Firm Surface</string>
+    <string name="cond_2">Eyes Open - Compliant Surface</string>
+    <string name="cond_3">Eyes Closed - Firm Surface</string>
+    <string name="cond_4">Eyes Closed - Compliant Surface</string>
+    <string name="trial_1">Trial #1</string>
+    <string name="trial_2">Trial #2</string>
+    <string name="trial_3">Trial #3</string>
+    <string name="avg">Average</string>
+    <string name="choose_assessment">Choose Assessment</string>
+    <string name="mctsib">mCTSIB</string>
+    <string name="pasat">PASAT</string>
+    <string name="walk">10m Walk</string>
+    <string name="abc">ABC</string>
+    <string name="default_acc_display">  0 </string>
+    <string name="acc_units">m/s<sup><small>2</small></sup></string>
+    <string name="default_acc_result"> 0.0 m/s<sup><small>2</small></sup></string>
+    <string name="default_delta_display">   0</string>
+    <string name="time_units"> ms</string>
+    <string name="default_time">5</string>
+    <string name="default_pause">3</string>
+    <string name="direction">Direction</string>
+    <string name="ap">A/P</string>
+    <string name="ml">M/L</string>
+    <string name="base_question">How confident are you that you will <b>not</b> lose your balance or become unsteady when you...</string>
+    <string name="next_question">Next Question</string>
+</resources>
